@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋 I'm Ryan</h1>
+<h1 align="center">hi 👋 i'm Ryan</h1>
 
 
-## 💫 About Me
+## about me
 
-I'm a computer science student at University of Virginia, passionate about building and leveraging AI. Started coding at 13 during COVID using only my iPad—no laptop, no computer. That constraint taught me resourcefulness and creative problem-solving.
+i'm a computer science student at University of Virginia, passionate about making things work and look better.
 
-**Currently:**
-- 💼 AV Technical Assistant at UVA
-- 🤖 Learning about AI systems
+i started coding at 13 during COVID using only my iPad (no laptop, no computer). that constraint taught me resourcefulness and creative problem-solving.
 
-Check out my [portfolio site](https://ryandnguy.me)!
+**currently:**
+- 💼 interning at [CargoLabs](https://www.cargolabs.com/)
+- 🤖 learning about AI systems
+
+check out my [portfolio site](https://ryandnguy.me)!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ what I know
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
